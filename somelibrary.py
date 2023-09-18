@@ -1,5 +1,4 @@
 
-class SampleLibrary{
+class SampleLibrary:
     def hello():
         return 'hello'
-}
